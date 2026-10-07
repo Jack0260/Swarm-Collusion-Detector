@@ -1,0 +1,6 @@
+{
+  "name": "Swarm Collusion Detector",
+  "description": "Multi-agent collusion detection system that identifies sycophancy loops in agent swarms with LangSmith trace viewer, influence causality graph, and Devil's Advocate intervention.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
